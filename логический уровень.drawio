@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Страница — 1" id="UBDgASpTmtEg0OKTBGHf">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ImvOHI5258spmYm3OSAT-2" value="Компания" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ImvOHI5258spmYm3OSAT-7" value="ID продукта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ImvOHI5258spmYm3OSAT-2">
+          <mxGeometry x="55" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ImvOHI5258spmYm3OSAT-3" value="Продукция" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ImvOHI5258spmYm3OSAT-5" value="Не реализованные запасы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ImvOHI5258spmYm3OSAT-3">
+          <mxGeometry x="15" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ImvOHI5258spmYm3OSAT-4" value="Количество рекламаций" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ImvOHI5258spmYm3OSAT-3">
+          <mxGeometry x="20" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ImvOHI5258spmYm3OSAT-8" value="ID продукта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ImvOHI5258spmYm3OSAT-3">
+          <mxGeometry x="55" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ImvOHI5258spmYm3OSAT-6" value="Количество выпущенной&amp;nbsp;&lt;div&gt;продукции&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="233" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
